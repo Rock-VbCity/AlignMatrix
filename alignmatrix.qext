@@ -1,0 +1,16 @@
+{
+	"name": "Align Matrix",
+	"description": "alignmatrix prove of concept extension; version 1.0.0",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"author": "Arnaldo Sandoval",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization, alignmatrix",
+	"license": "MIT",
+	"repository": "",
+	"preview": "alignmatrix.png",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
