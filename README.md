@@ -108,3 +108,12 @@ var myTranslateAlignment = {<br>
 	</td>
    </td>
 </table>
+**What is the risk involved by implementing the align-matrix component with this mapping?**<br>
+You may wonders about the risk of implementing the align-matrix component, more so when it is hard to find  documents explaining its features, on the other hand, this component in part of the Text & Image visualization, one of the earliest Qlik Sense's visualizations, which is probably implemented in so many solutions.
+
+In my opinion this component is unlikely to be retired or deprecated anytime soon, its presence in a key visualization almost guarantee its existence, even with the glitch previously described. 
+
+**Styling, text and image alignment in CSS:**<br>
+ There are an important amount of topics, blogs, and questions regarding implementing image alignments on web pages, which tells us it has been challenging, fortunately we located a well documented solution at Stack Overflow and we are sharing it in this document. 
+
+**How images alignments on web pages are achieve?**<br>
